@@ -1,0 +1,22 @@
+.box{
+    height: 200px;
+    width: 400px;
+    border: 2px solid grey;
+    overflow: scroll;
+    margin: 10px;
+}
+.box2{
+    height: 200px;
+    width: 400px;
+    border: 2px solid rgb(201, 90, 11);
+    overflow: scroll;
+    margin: 10px;
+}
+.image .logo{
+    height: 100px;
+    width: 100px;
+    border: 2px solid aqua;
+}
+.logo1{
+    border: 2px solid hotpink;
+}
